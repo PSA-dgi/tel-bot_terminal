@@ -20,4 +20,4 @@ A Telegram bot that lets you **run terminal commands remotely** on your **server
 
 ### 1. Clone the repository
 ```bash
-git clone https://
+git clone https://github.com/PSA-dgi/tel-bot_terminal.git
